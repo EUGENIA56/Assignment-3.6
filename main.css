@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(./order-summary-component-main/images/pattern-background-desktop.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #E0E8FF;
+}
+
+#container{
+    width: 25%;
+    height: 80vh;
+    background-color: #fff;
+    margin-left: 37%;
+    margin-top: 5%;
+    overflow: hidden;
+    border-radius: 15px;
+}
+
+#img1{
+    width: 100%;
+}
+
+h2{
+    text-align: center;
+    font-weight: 600;
+    font-style: 90%;
+    padding: 13px;
+    color: hsl(223, 47%, 23%);
+}
+
+#p1{
+    color: hsl(224, 23%, 55%);
+    margin-left: 15%;
+    font-size: 90%;
+    margin-top: 2%;
+    
+}
+
+#p2{
+    color: hsl(224, 23%, 55%);
+    text-align: center;
+    font-size: 90%;
+}
+
+#img2{
+    margin-left: 5%;
+    width: 36px;
+    margin-top: 3%;
+
+}
+
+h1{
+    font-size: 93%;
+}
+
+#p3{
+    font-size: 90%;
+    color: hsl(224, 23%, 55%);
+}
+
+#payment{
+    margin-left: 23%;
+    margin-top: -17%;
+    /* border: 1px solid red; */
+    width: 40%;
+}
+
+#a1{
+    margin-left: 70%;
+
+}
+
+#anc1{
+    margin-top: -12%;
+}
+
+#bar{
+    background-color: hsl(225, 100%, 98%);
+    width: 75%;
+    margin-left: 15%;
+    margin-top: 5%;
+    padding-bottom: 15px;
+    border-radius: 10px;
+}
+
+#a2{
+    margin-left: 20%;
+    text-decoration: none;
+    color: #fff;
+}
+
+#click{
+    margin-top: 7%;
+    background-color: #382AE1;
+    padding: 10px;
+    width: 68%;
+    margin-left: 15.5%;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6), 0 8px 16px rgba(0, 0, 0, 0.6);
+
+}
+
+span{
+    font-size: 75%;
+    font-weight: 600;
+    margin: 120px;
+    color: #BABCCC;
+}
